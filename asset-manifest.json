@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yokkebiz/static/css/main.ecdfb939.chunk.css",
+    "main.js": "/yokkebiz/static/js/main.71ed8d3d.chunk.js",
+    "main.js.map": "/yokkebiz/static/js/main.71ed8d3d.chunk.js.map",
+    "runtime-main.js": "/yokkebiz/static/js/runtime-main.3e862dbd.js",
+    "runtime-main.js.map": "/yokkebiz/static/js/runtime-main.3e862dbd.js.map",
+    "static/js/2.292221be.chunk.js": "/yokkebiz/static/js/2.292221be.chunk.js",
+    "static/js/2.292221be.chunk.js.map": "/yokkebiz/static/js/2.292221be.chunk.js.map",
+    "static/js/3.627fd45a.chunk.js": "/yokkebiz/static/js/3.627fd45a.chunk.js",
+    "static/js/3.627fd45a.chunk.js.map": "/yokkebiz/static/js/3.627fd45a.chunk.js.map",
+    "index.html": "/yokkebiz/index.html",
+    "static/css/main.ecdfb939.chunk.css.map": "/yokkebiz/static/css/main.ecdfb939.chunk.css.map",
+    "static/js/2.292221be.chunk.js.LICENSE.txt": "/yokkebiz/static/js/2.292221be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e862dbd.js",
+    "static/js/2.292221be.chunk.js",
+    "static/css/main.ecdfb939.chunk.css",
+    "static/js/main.71ed8d3d.chunk.js"
+  ]
+}
